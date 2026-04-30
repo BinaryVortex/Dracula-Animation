@@ -2,7 +2,10 @@
 
 A small CSS-driven Dracula animation built with HTML and CSS.
 
-![Dracula Preview](https://github.com/BinaryVortex/Dracula-Animation/blob/main/Screenshot%202024-05-17%20232127.png)
+<p align="center">
+  <img src="https://github.com/BinaryVortex/Dracula-Animation/blob/main/Screenshot%202024-05-17%20232127.png" alt="Dracula Preview 1" width="48%" />
+  <img src="https://github.com/BinaryVortex/Dracula-Animation/blob/main/Screenshot%202024-05-17%20232135.png" alt="Dracula Preview 2" width="48%" />
+</p>
 
 Overview
 --------
@@ -19,7 +22,7 @@ Files
 -----
 - `index.html` — markup for the Dracula scene
 - `style.css` — all styles and animation rules
-- `Screenshot 2024-05-17 232127.png` — preview image used in this README
+- `Screenshot 2024-05-17 232127.png` — preview image
 - `Screenshot 2024-05-17 232135.png` — alternate preview image
 
 Usage
@@ -34,17 +37,17 @@ Usage
 
 Customization tips
 ------------------
-- Change the color palette by editing the CSS custom properties (if present) or the color variables in `style.css`.
+- Change the color palette by editing the CSS variables or color rules in `style.css`.
 - Speed up or slow down the animation by adjusting the `animation-duration` values in `style.css`.
-- Scale the entire scene by changing the root container size (e.g., alter width/height on the main wrapper).
+- Scale the scene by changing the root container size (e.g., width/height on the main wrapper).
 
 Contributing
 ------------
-Contributions are welcome! If you find an improvement — whether that's accessibility tweaks, responsive improvements, or new animation states — please open an issue or submit a pull request.
+Contributions are welcome! If you find an improvement — accessibility tweaks, responsive improvements, or new animation states — please open an issue or submit a pull request.
 
 License
 -------
-This project does not currently include a license file. If you want to use or redistribute the code, please contact the repository owner or add a license (e.g., MIT) to clarify permissions.
+This project does not currently include a license file. Add a license (e.g., MIT) if you plan to reuse or redistribute the code.
 
 Credits
 -------
